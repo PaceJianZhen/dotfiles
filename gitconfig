@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jianzhen.tan@pacenow.co
+	name = Jian Zhen Tan
